@@ -5,4 +5,4 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.verce.app/api?username=The0nunes&show icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+https://github.comdme-rints.vwrcol.mp/api)username=The0nunes(4066show.icons-crudetheme-dark))(https://github.com/munangharra/github-random-rints
