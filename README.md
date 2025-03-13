@@ -5,7 +5,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The0nunes&show_icons=true&theme=dark)](https://github.com/The0nunes/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The0nunes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
@@ -18,7 +18,7 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The0nunes&layout=compact)](https://github.com/The0nunes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The0nunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
