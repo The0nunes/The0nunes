@@ -9,7 +9,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The0nunes&repo=calculadora-ebac&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/The0nunes/calculadora-ebac))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The0nunes&repo=calculadora-ebac&theme=dark)](https://github.com/The0nunes/calculadora-ebac)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The0nunes&repo=Jogo-de-adivinhacao-&theme=dark)](https://github.com/The0nunes/Jogo-de-adivinhacao-)
 
