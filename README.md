@@ -15,6 +15,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The0nunes&repo=Jokenpo&theme=dark)](https://github.com/The0nunes/Jokenpo)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The0nunes&repo=analise-ecommerce&theme=dark)](https://github.com/The0nunes/analise-ecommerce)
+
 
 ### Linguagens utilizadas
 
