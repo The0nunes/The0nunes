@@ -9,7 +9,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The0nunes&repo=API-Blog&theme=dark)](https://github.com/The0nunes/api-blog-devaprender)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The0nunes&repo=api-blog-devaprender&theme=dark)](https://github.com/The0nunes/api-blog-devaprender)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=The0nunes&repo=calculadora-ebac&theme=dark)](https://github.com/The0nunes/calculadora-ebac)
 
